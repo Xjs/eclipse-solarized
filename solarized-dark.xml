@@ -24,7 +24,7 @@
     <string color="#20A198" />
     <operator color="#859A00" />
     <!-- VS Code uses #859A00 for control-flow keywords and #BBBBBB for type visibility keywords, this is a compromise -->
-    <keyword color="#919A5E" />
+    <keyword color="#919A5E" bold="true" />
     <annotation color="#859A00" />
     <staticMethod color="#1C89D5" />
     <localVariable color="#BBBBBB" />
