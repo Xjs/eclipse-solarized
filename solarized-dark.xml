@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Use with Dark Custom, H: 193, S: 100, L: 99, and Theme Background -->
+<colorTheme id="20002" name="Solarized Dark +" modified="2020-04-19 01:30:00" author="Jannis Andrija Schnitzer">
+    <searchResultIndication color="#4D3B22" bold="true" box="true" />
+    <filteredSearchResultIndication color="#4D3B22" bold="true" box="true" />
+    <occurrenceIndication color="#004A5D" bold="true" box="true" />
+    <writeOccurrenceIndication color="#004A5D" bold="true" box="true" />
+    <findScope color="#16323A" />
+    <deletionIndication color="#670000" />
+    <sourceHoverBackground color="#000000" />
+    <singleLineComment color="#647B84" bold="false" italic="true" />
+    <multiLineComment color="#647B84" italic="true" />
+    <commentTaskTag color="#99393A" bold="true" />
+    <javadoc color="#647B84" />
+    <javadocLink color="#93A1A1" bold="true" underline="true" strikethrough="false" />
+    <javadocTag color="#859A00" />
+    <javadocKeyword color="#859A00" />
+    <class color="#1C89D5" />
+    <interface color="#1C89D5" />
+    <method color="#1C89D5" />
+    <methodDeclaration color="#1C89D5" />
+    <bracket color="#BBBBBB" />
+    <number color="#D53182" />
+    <string color="#20A198" />
+    <operator color="#859A00" />
+    <!-- VS Code uses #859A00 for control-flow keywords and #BBBBBB for type visibility keywords, this is a compromise -->
+    <keyword color="#919A5E" />
+    <annotation color="#859A00" />
+    <staticMethod color="#1C89D5" />
+    <localVariable color="#BBBBBB" />
+    <localVariableDeclaration color="#1C89D5" />
+    <field color="#1C89D5" />
+    <staticField color="#1C89D5" />
+    <staticFinalField color="#1C89D5" />
+    <deprecatedMember color="#1C89D5" />
+    <enum color="#1C89D5" />
+    <inheritedMethod color="#1C89D5" />
+    <abstractMethod color="#1C89D5" />
+    <parameterVariable color="#BBBBBB" />
+    <typeArgument color="#BBBBBB" bold="true" />
+    <typeParameter color="#BBBBBB" bold="true" />
+    <constant color="#20A198" />
+    <background color="#002B37" />
+    <currentLine color="#043643" />
+    <foreground color="#BBBBBB" />
+    <lineNumber color="#858585" />
+    <!-- VS Code uses a colour closer to currentLine, but VS Code only highlights the current line if nothing is selected, Eclipse always does -->
+    <selectionBackground color="#2A4E5F" />
+    <selectionForeground color="#BBBBBB" />
+</colorTheme>
